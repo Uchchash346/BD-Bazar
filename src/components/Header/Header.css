@@ -1,0 +1,49 @@
+#website-title{
+    color: #363958;
+}
+.navbar-area{
+    color: black;
+}
+#website-title{
+    font-weight: bold;
+    font-size: 30px;
+}
+#navlink-area{
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+}
+ .link-area-name{
+    color: black;
+    padding-right: 10px;
+ }
+ .link-area-name:hover{
+    color: #1096E3 ;
+    text-decoration: none;
+ }
+
+#login-button{
+border: none;
+padding: 10px 32px;
+ background-color: #363958;
+ color: white;
+ border-radius: 8px;
+}
+
+.link-area{
+    padding-left: 2px;
+    margin-left: 2px;
+}
+button{
+    text-decoration: none;
+}
+.header-navbar-area{
+    margin-top: 20px;
+}
+#search-food-item-button{
+    background-color: #363958;
+    color: white;
+}
+.searching-food-area{
+    margin-top: 50px;
+}
